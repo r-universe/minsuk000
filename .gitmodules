@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BayesS5"]
+	path = BayesS5
+	url = https://github.com/cran/BayesS5
+	shallow = true
+	registered = true
